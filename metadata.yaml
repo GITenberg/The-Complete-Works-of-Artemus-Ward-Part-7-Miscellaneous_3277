@@ -1,0 +1,24 @@
+_repo: The-Complete-Works-of-Artemus-Ward-Part-7-Miscellaneous_3277
+creator:
+  author:
+    agent_name: Ward, Artemus
+    alias: Browne, Charles Farrar
+    birthdate: 1834
+    deathdate: 1867
+    gutenberg_agent_id: '1149'
+    url: http://www.gutenberg.org/2009/agents/1149
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Farrar_Browne
+description: ''
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PS'
+title: 'The Complete Works of Artemus Ward — Part 7: Miscellaneous'
+url: http://www.gutenberg.org/ebooks/3277
